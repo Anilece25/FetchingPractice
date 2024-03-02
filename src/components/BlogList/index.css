@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.blog-cont {
+  border-style: solid;
+  border-color: black;
+  margin-bottom: 5px;
+}
+.img1 {
+  height: 100px;
+  width: 300px;
+}
